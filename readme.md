@@ -1,4 +1,4 @@
-# Tailwind Assignment Paytm UI Clone
+# Javascript Assignment Accordian
 
 ![ineuro, lco](https://img.shields.io/badge/iNeuron-LCO-green)
 
