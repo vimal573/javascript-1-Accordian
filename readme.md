@@ -10,7 +10,7 @@
 
 ![name](https://img.shields.io/badge/Vimal--Kumar-lightgrey)
 
-## Accordian [Live Link](https://uishopify.netlify.app/)
+## Accordian [Live Link](https://accordian-js.netlify.app/)
 
 - Skills Gained in this project
 
