@@ -26,4 +26,4 @@
 
 #### Screenshot
 
-![Desktop](./Image/js-1.png/)
+![Desktop](/js-1.png)
